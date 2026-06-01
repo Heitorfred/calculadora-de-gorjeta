@@ -36,8 +36,7 @@ main{
 
 .conta,
 .gorjeta,
-.pessoas
-{
+.pessoas {
     margin-bottom: 2rem;
 }
 .conta label,
@@ -160,3 +159,5 @@ main{
     padding-block: 0.5rem;
 
 }
+
+
